@@ -1,11 +1,5 @@
 # t-l-m-decine-au-Cameroun-
-Année academiques  :2025/2026
-Cour: Wide Area Networks
-
-
-ASSESSMENT 2
-
-
+ télemedecine au Cameroun
 
 
 Le Cloud : est une infrastructure ou une mémoire virtuelle permettant aux utilisateurs d’accéder aux ressources informatiques via internet sans sans avoir besoin de posséder des serveurs physiques.
